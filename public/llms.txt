@@ -1,0 +1,57 @@
+# Smartest — Generative Engine Optimization Map
+
+> A טכנולוגיה לבית חכם business.
+
+---
+
+## Pages
+
+### בית
+https://smartest-82bd4d89.zappy5.app
+גלו את הבית החכם המתקדם ביותר בעולם עם Smartest. טכנולוגיה חכמה, נוחה ומתוחכמת לבית שלכם. צרו קשר עוד היום!
+
+### שירותים
+https://smartest-82bd4d89.zappy5.app/services
+גלו את מגוון השירותים החכמים של Smartest - תאורה, אבטחה, בקרת אקלים ועוד. הפתרונות החכמים ביותר בעולם לבית שלכם.
+
+### אודות
+https://smartest-82bd4d89.zappy5.app/about
+הכירו את Smartest - הצוות המוביל בתחום הבית החכם. מומחיות, ניסיון ומחויבות להפוך את הבית שלכם למתקדם ביותר בעולם.
+
+### צור קשר
+https://smartest-82bd4d89.zappy5.app/contact
+צרו קשר עם Smartest לייעוץ חינם על פתרונות בית חכם. המומחים החכמים ביותר בעולם זמינים לענות על כל שאלה ולתכנן את הבית החכם שלכם.
+
+## Legal & Policy
+
+### Privacy Policy
+https://smartest-82bd4d89.zappy5.app/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://smartest-82bd4d89.zappy5.app/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://smartest-82bd4d89.zappy5.app/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+# Business Context (for LLM understanding)
+
+## About Smartest
+Smartest is a business in the טכנולוגיה לבית חכם industry.
+
+## Target Audience
+- בעלי בתים טכנולוגיים
+
+## Industry
+טכנולוגיה לבית חכם
+
+---
+
+# Additional Resources
+
+- **Sitemap**: https://smartest-82bd4d89.zappy5.app/sitemap.xml
+- **Robots.txt**: https://smartest-82bd4d89.zappy5.app/robots.txt

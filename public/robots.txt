@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://smartest-82bd4d89.zappy5.app/sitemap.xml
